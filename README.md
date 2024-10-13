@@ -7,7 +7,7 @@
 
 Для запуска: 
 1. скачайте репозиторий командойЖ
-- git clone git@github.com:saminter22/project_hr.git
+- git clone https://github.com/saminter22/project_hr
 
 2. Установите и активируйте виритуальное окружение:
 - python -m venv venv
